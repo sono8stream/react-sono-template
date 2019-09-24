@@ -2,21 +2,6 @@
   "name": "react-sono-template",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "firebase": "^6.4.2",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "react-redux": "^7.1.0",
-    "react-router": "^5.0.1",
-    "react-router-dom": "^5.0.1",
-    "react-scripts": "3.1.1",
-    "redux": "^4.0.4",
-    "redux-thunk": "^2.3.0",
-    "semantic-ui-css": "^2.4.1",
-    "semantic-ui-react": "^0.88.0",
-    "typescript-fsa": "^3.0.0-beta-2",
-    "typescript-fsa-reducers": "^1.2.1"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -40,18 +25,32 @@
   },
   "devDependencies": {
     "@types/jest": "^24.0.18",
-    "@types/node": "^12.7.2",
+    "@types/node": "^12.7.5",
     "@types/react": "^16.9.2",
     "@types/react-dom": "^16.9.0",
     "@types/react-redux": "^7.1.2",
-    "@types/react-router": "^5.0.3",
+    "@types/react-router": "^5.0.5",
     "@types/react-router-dom": "^4.3.5",
-    "@types/redux-thunk": "^2.1.0",
     "prettier": "^1.18.2",
-    "tslint": "^5.19.0",
+    "tslint": "^5.20.0",
     "tslint-config-prettier": "^1.18.0",
     "tslint-plugin-prettier": "^2.0.1",
-    "tslint-react": "^4.0.0",
-    "typescript": "^3.5.3"
+    "tslint-react": "^4.1.0"
+  },
+  "dependencies": {
+    "firebase": "^6.6.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-redux": "^7.1.1",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.1.2",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.1",
+    "typescript": "^3.6.3",
+    "typescript-fsa": "^3.0.0",
+    "typescript-fsa-reducers": "^1.2.1"
   }
 }

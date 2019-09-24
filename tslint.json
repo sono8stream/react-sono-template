@@ -11,7 +11,6 @@
     "prettier": true,
     "interface-name": false,
     "import-name": false,
-    "ordered-imports": false,
     "no-empty-interface": false,
     "object-literal-sort-keys": false,
     "jsx-no-lambda": false

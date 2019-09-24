@@ -1,6 +1,6 @@
 {
   "editor.formatOnSave": true,
   "tslint.configFile": "tslint.json",
-  "prettier.tslintIntegration": true,
+  "prettier-tslint.tslintIntegration": true,
   "tslint.autoFixOnSave": true
 }
