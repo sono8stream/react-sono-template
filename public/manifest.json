@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Sono Template",
+  "name": "React Sono template",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,18 +8,15 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logo.png",
       "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }	 
+      "sizes": "800x800"
+    }
   ],
   "start_url": ".",
+  "description": "Sono's react template",
   "display": "standalone",
+  "orientation": "portrait",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
