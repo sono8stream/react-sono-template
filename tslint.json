@@ -8,11 +8,19 @@
     "tslint-plugin-prettier"
   ],
   "rules": {
+    "arrow-parens": true,
     "prettier": true,
     "interface-name": false,
     "import-name": false,
+    "jsx-no-lambda": false,
     "no-empty-interface": false,
     "object-literal-sort-keys": false,
-    "jsx-no-lambda": false
+    "quotemark": [
+      true,
+      "single",
+      "jsx-double"
+    ],
+    "semicolon": true,
+    "trailing-comma": true
   }
 }
