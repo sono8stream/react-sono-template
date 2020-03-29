@@ -2,5 +2,5 @@
 
 ```
 $ npx npm-check-updates -u
-$ npm update
+$ npm install
 ```
