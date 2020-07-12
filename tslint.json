@@ -6,8 +6,10 @@
     "interface-name": false,
     "import-name": false,
     "jsx-no-lambda": false,
+    "no-console": false,
     "no-empty-interface": false,
     "object-literal-sort-keys": false,
+    "ordered-imports": true,
     "semicolon": true,
     "trailing-comma": true
   }
